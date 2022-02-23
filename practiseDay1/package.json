@@ -5,12 +5,11 @@
     "nodemon": "^2.0.15"
   },
   "scripts": {
-    "start": "server.js"
+    "server": "server.js"
   },
   "name": "practiseday1",
   "version": "1.0.0",
   "main": "server.js",
-  "devDependencies": {},
   "keywords": [],
   "author": "",
   "license": "ISC",
